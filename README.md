@@ -19,11 +19,11 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    <a href="https://github.com/Johnwell-devh/HotelFranchiseDBMS.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Johnwell-dev&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    <a href="https://github.com/Johnwell-dev/Linux-Shell-Implementation.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Johnwell-dev&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
     </a>
   </p>
 </div>
