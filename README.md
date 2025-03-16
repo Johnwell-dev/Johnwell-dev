@@ -15,12 +15,15 @@ I am a Secondary student in a high school in the Dominican Republic, C++, Python
 - Outside of technology, 📖 I love to play, 🖌️ draw and skecthing, listen to music 🎵, and 🌴 explore nature outdoors.
 - 📫 Contact me at: <a href="johnwell.dev@gmail.com">johnwell.dev@gmail.com</a>
 
+* **Known Technologies:**
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py)](https://skillicons.dev)
+
 <h2>👀 My github Stats</h2>
 
 <div>
 <!--   <p align="center">
     <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Johnwell-dev&cover_image=true&theme=novatorem" alt="Now Listenting to" />
   </p> -->
   
   <p align="center">
