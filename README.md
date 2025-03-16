@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am a Secondary student in a high school in the Dominican Republic, C++, Python, Css, and HTML are the programming languages that I am good at. I love learning and building something new, productive, innovative and creative, especially if it gives me knowledge and experience.
 * **I am interested in Freelance, Programming Logic, and digital marketing**
 - 🌱 I’m currently learning ...
   - C++
@@ -43,7 +43,7 @@ __Check out my GitHub repository:__
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=Johnwell-dev&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnwell-dev&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
