@@ -15,7 +15,7 @@ I am a Secondary student in a high school in the Dominican Republic, C++, Python
 - Outside of technology, 📖 I love to play, 🖌️ draw and skecthing, listen to music 🎵, and 🌴 explore nature outdoors.
 - 📫 Contact me at: <a href="johnwell.dev@gmail.com">johnwell.dev@gmail.com</a>
 ## Known Technologies  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py,vscode)](https://skillicons.dev)
 
 <h2>👀 My github Stats</h2>
 
