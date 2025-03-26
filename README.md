@@ -8,14 +8,13 @@ I am a Secondary student in a high school in the Dominican Republic, C++, Python
 - 🌱 I’m currently learning ...
   - C++
   - SQL
-  - Python
      <img align="right" width="300px" alt="Cool GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem85bzFsMWlobmN2bjJkaGxhd2xpZzU5dDdna3Zmcm03Nms3YWZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHrCZhpFnlyNO/giphy.gif" />
 - 👯 I am looking forward to collaborating on all kinds of projects to increase my knowledge.
 - ✔ Ask me about anything, I'm happy to help 😉<br>
 - Outside of technology, 📖 I love to play, 🖌️ draw and skecthing, listen to music 🎵, and 🌴 explore nature outdoors.
 - 📫 Contact me at: <a href="johnwell.dev@gmail.com">johnwell.dev@gmail.com</a>
 ## Known Technologies  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,py,vscode)](https://skillicons.dev)
 
 <h2>👀 My github Stats</h2>
 
