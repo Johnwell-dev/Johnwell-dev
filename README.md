@@ -1,6 +1,6 @@
 # Hi there 👋, Johnwell here. 
 
-<img align="right" width="300px" alt="Cool GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnEybHRvbGY1emczdm85NWlybjNiYWJqbDM2dG5sMzdmNzJwNmt3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N2ng0M6HzgKr3lW8df/giphy.gif" />
+<img align="right" width="300px" alt="Cool GIF" src="https://tenor.com/bYo4P.gif" />
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
