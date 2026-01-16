@@ -3,7 +3,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Secondary student in a high school in the Dominican Republic, C++, Python, Css, and HTML are the programming languages that I am good at. I love learning and building something new, productive, innovative and creative, especially if it gives me knowledge and experience.
+I am a Secondary student in a high school, C++, Python, Css, and HTML are the programming languages that I am good at. I love learning and building something new, productive, innovative and creative, especially if it gives me knowledge and experience.
 * **I am interested in Freelance, Programming Logic, and digital marketing**
 - 🌱 I’m currently learning ...
   - C++
