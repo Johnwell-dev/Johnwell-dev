@@ -13,7 +13,7 @@ I am a Secondary student in a high school, C++, Python, Css, and HTML are the pr
 - Outside of technology, 📖 I love to play, 🖌️ draw and skecthing, listen to music 🎵, and 🌴 explore nature outdoors.
 - 📫 Contact me at: <a href="johnwell.dev@gmail.com">johnwell.dev@gmail.com</a>
 ## Known Technologies  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,py,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,py,vscode,mysql)](https://skillicons.dev)
 
 <h2>👀 My github Stats</h2>
 
