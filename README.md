@@ -6,7 +6,6 @@
 I am a Secondary student in a high school, C++, Python, Css, and HTML are the programming languages that I am good at. I love learning and building something new, productive, innovative and creative, especially if it gives me knowledge and experience.
 * **I am interested in Freelance, Programming Logic, and digital marketing**
 - 🌱 I’m currently learning ...
-  - C++
   - SQL
      <img align="right" width="300px" alt="Cool GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem85bzFsMWlobmN2bjJkaGxhd2xpZzU5dDdna3Zmcm03Nms3YWZuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHrCZhpFnlyNO/giphy.gif" />
 - 👯 I am looking forward to collaborating on all kinds of projects to increase my knowledge.
